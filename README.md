@@ -1,9 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/848a43d1-59dc-468b-b3d0-6d99a1fb83fa)
 
-# WumpusWinForms
-
-Juego del Wumpus en Windows Forms
+Wumpus World en Windows Forms
 =================================
 
 El objetivo de este proyecto fue enlazar la lógica de un proyecto anterior (Wumpus en Linea de Comandos) a Windows Forms y así darle una interfaz gráfica.
